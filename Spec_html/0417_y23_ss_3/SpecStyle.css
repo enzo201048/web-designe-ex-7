@@ -1,0 +1,24 @@
+table		size			90% window width
+		borders			not collapsed
+					width 2 pixels
+					solid
+					border colour 808000
+
+table data 	cell padding		top 8 pixels
+					left and right 20 pixels
+					bottom 6 pixels
+		borders			width 2 pixels
+					solid
+					border colour 808000
+
+All heading styles	Colour: 	Blue 00, Red ff, Green ff
+			Font: 		Times New Roman, but if not available then Times, or if these fonts are not available, the browser’s default serif font
+
+h1					48 points high
+					Alignment right
+
+h2 					24 points high
+
+h3 					18 points high
+
+cyan					00ffff
